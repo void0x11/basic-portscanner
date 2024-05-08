@@ -27,6 +27,7 @@ Void Scanner is a robust and versatile network scanning tool designed to assess 
 1. Clone the repository or download the `port_scanner.py` script.
 2. Ensure that Python 3.x is installed on your system.
 3. Install the required Python packages:
+
    ```bash
    pip install colorama
 
