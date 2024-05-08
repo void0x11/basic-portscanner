@@ -1,6 +1,6 @@
 # Void Scanner
 
-## Comprehensive Network Scanning Tool
+## Basic Network Scanning Tool
 
 Void Scanner is a robust and versatile network scanning tool designed to assess and analyze network security. It offers functionality for setting targets (individual IP addresses or ranges), performing ping scans, and scanning TCP ports.
 
