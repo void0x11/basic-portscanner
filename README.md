@@ -30,7 +30,6 @@ Void Scanner is a robust and versatile network scanning tool designed to assess 
    ```bash
    pip install colorama
 
-
 ### To use Void Scanner, run the script from the command line:
 ```bash
 python port_scanner.py
